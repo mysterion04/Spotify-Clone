@@ -1,5 +1,5 @@
 # Spotify-Clone
 
-A simple clone project of original Spotify Website.
+##  **A simple clone project of original Spotify Website.**
 
-It is written in Custom PHP, a simple reference clone of the beautiful website Spotify!
+###  _It is written in Custom_ `PHP`, _a simple reference clone of the beautiful website Spotify!_
