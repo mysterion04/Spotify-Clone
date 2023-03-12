@@ -1,4 +1,4 @@
-# Spotify-Clone ### ![](https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo)
+![](https://imgur.com/gallery/iO0eQYk)
 
 ##  **A clone of original Spotify web app.**
 
