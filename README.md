@@ -1,7 +1,9 @@
 # Spotify-Clone
 
-##  **A simple clone project of original Spotify Website.**
+##  **A clone of original Spotify web app.**
 
-###  _It is written in Custom_ `PHP`, _a simple reference clone of the beautiful website Spotify!_
+###  It is written in Custom `PHP`, a reference clone of the beautiful website Spotify!
 
-[See more of my work](https://www.pexels.com/@mysterion-m-342713 "Pexels")
+### Backend - `PHP`
+
+### Frontend - `HTML &CSS`
